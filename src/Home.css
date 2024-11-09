@@ -1,0 +1,23 @@
+.home-content {
+  width: 95%;
+  max-width: 1200px;
+  margin: auto;
+  /* padding: 20px 0; */
+}
+
+.car-form-background {
+  width: 100%;
+  padding: 20px 40px;
+  box-sizing: border-box;
+  height: 400px;
+}
+
+.home-tagline {
+  font-style: italic;
+  text-align: center;
+}
+
+.home-filter-form {
+  background-color: green;
+  padding: 10px;
+}

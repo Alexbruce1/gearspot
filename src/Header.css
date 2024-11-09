@@ -1,0 +1,32 @@
+.App-header {
+  /* background-color: var(--primary-background-color); */
+  text-align: center;
+  color: white;
+}
+
+.gearspot-header-title {
+  padding: 20px;
+  margin: 0;
+}
+
+.header-menu-container {
+  background-color: #c0c0c0;
+}
+
+.header-menu {
+  display: flex;
+  margin: auto;
+  width: 90%;
+  max-width: 1200px;
+  justify-content: space-between;
+  color: #2F4F4F;
+}
+
+.menu-item {
+  text-decoration: none;
+  color: #2F4F4F;
+}
+
+.menu-item h3 {
+  margin: 10px 0;
+}
